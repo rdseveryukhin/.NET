@@ -29,12 +29,21 @@ Calculate the average consumption of tugriks per page. Mathematically round the 
 The final output in the form of a table:
 
           5 spaces
+          
             |<->|
+            
 Department of Employees Tugriks Coffee Pages Tugr./page
+
 -------------------------------------------------- --------------------------
+
 Purchasing 17 961250 350 3100 310.08
+
 Sales 24 1415000 640 3625 390.34
+
 Advertising 36 1630000 575 5450 299.08
+
 Logistics 24 1137500 425 3850 295.45
+
 -------------------------------------------------- --------------------------
+
 Total 101 5143750 1990 16025 320.98
