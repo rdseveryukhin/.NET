@@ -17,8 +17,11 @@ Input example:
 student 10 25 1
 
 student - type of visitor
+
 10 - the number of sessions the viewer has already attended
+
 25 - ticket price
+
 1 - how many tickets the visitor buys
 
 You need to display the total cost of the purchase, taking into account discounts.
